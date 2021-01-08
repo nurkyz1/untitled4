@@ -1,5 +1,4 @@
 interface Age <T extends  Number> {
-    void age();
-
-
+    public   T age();
+    public void years (T t);
 }
